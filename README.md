@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiTheGreatest
 - 👀 I’m interested in Programming and Web Developing
-- 🌱 I’m currently learning 1 programming language
+- 🌱 I’m currently learning 2 programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
